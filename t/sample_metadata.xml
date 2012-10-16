@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MedlineCitationSet PUBLIC "-//NLM//DTD Medline Citation, 1st January, 2012//EN"
+                                    "http://www.nlm.nih.gov/databases/dtd/nlmmedlinecitationset_120101.dtd">
+<MedlineCitationSet>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12255379</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0002-9955</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>159</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Sep</Month>
+<Day>17</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Association</Title>
+<ISOAbbreviation>J Am Med Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Association of maternal and fetal factors with development of mental deficiency.  1. Abnormalities in the prenatal and paranatal periods.</ArticleTitle>
+<Pagination>
+<MedlinePgn>155-60</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pasamanick</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lilienfeld</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Comparative Study</PublicationType>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Med Assoc</MedlineTA>
+<NlmUniqueID>7507176</NlmUniqueID>
+<ISSNLinking>0002-9955</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Congenital Abnormalities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Disabled Persons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Intellectual Disability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Intelligence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Maternal-Fetal Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Personality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pregnancy Complications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Psychology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Reproduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Research</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550018</OtherID>
+<OtherID Source="POP">00020417</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>Pregnancy, delivery, and neonatal records of mentally defective chil dren born in Baltimore, Maryland, between 1935 and 1952 were compared wi th records of a control group to determine the effects of complications during these 3 phases on  eventual mental disorders.  The mental defectives had a greater amount of recorded complications of pregnancy and delivery, prematurity, and abnormal neonatal experiences.  Nonmechanical pregnancy complications, i.e., bleeding or toxemia, seemed more significant in this association than the mechanical factors of delivery.  Neither duration of labor nor operative procedures performed at delivery was related with the development of mental deficiency.  The associations that did show were not as strong for nonwhites.  Various reasons for this fact are considered.  It seems possible that reproductive casualty can occur during pregnancy, delivery, and the neonatal period.  In its most serious form, it causes spontaneous abortion, stillbirth, neonatal deaths.  Lesser brain damage during these periods will cause, in the following order, cerebral palsy, epilepsy, mental retardation, and behavioral disorders.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="N">Behavior</Keyword>
+<Keyword MajorTopicYN="Y">Comparative Studies</Keyword>
+<Keyword MajorTopicYN="N">Congenital Abnormalities</Keyword>
+<Keyword MajorTopicYN="N">Diseases</Keyword>
+<Keyword MajorTopicYN="N">Handicapped</Keyword>
+<Keyword MajorTopicYN="N">Intelligence</Keyword>
+<Keyword MajorTopicYN="Y">Maternal-fetal Exchange</Keyword>
+<Keyword MajorTopicYN="Y">Mental Retardation</Keyword>
+<Keyword MajorTopicYN="N">Personality</Keyword>
+<Keyword MajorTopicYN="N">Pregnancy</Keyword>
+<Keyword MajorTopicYN="Y">Pregnancy Complications</Keyword>
+<Keyword MajorTopicYN="N">Psychological Factors</Keyword>
+<Keyword MajorTopicYN="N">Reproduction</Keyword>
+<Keyword MajorTopicYN="N">Research Methodology</Keyword>
+<Keyword MajorTopicYN="N">Studies</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12255395</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0002-9955</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>157</Volume>
+<PubDate>
+<Year>1955</Year>
+<Month>Feb</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Association</Title>
+<ISOAbbreviation>J Am Med Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Spermicidal activity of undiluted commercial contraceptive preparations, 1953.</ArticleTitle>
+<Pagination>
+<MedlinePgn>662-3</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gamble</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Med Assoc</MedlineTA>
+<NlmUniqueID>7507176</NlmUniqueID>
+<ISSNLinking>0002-9955</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Contraceptive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Spermatocidal Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance>Vaginal Creams, Foams, and Jellies</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Contraception</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Contraceptive Agents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Family Planning Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pessaries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Reproduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sperm Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Spermatocidal Agents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Vaginal Creams, Foams, and Jellies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550062</OtherID>
+<OtherID Source="POP">00021014</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>Laboratory tests designed to measure the spermicidal effectiveness of contraceptive jellies and creams after dilution and mixing were carried out.  87 materials were tested.  The number of minutes during which motion of the sperm continued in a column of human semen 2 mm in diameter and 5 mm long in contact with a contraceptive material was computed.  The average spermicidal activity of the 51 jellies tested was higher than for the 16 suppositories and still greater than for the 20 creams.  The immobilization times were measured of rice flour jellies containing sodium chloride in concentrations of 10%, 20%, and 30% of the water present.  The 30% sodium chloride jelly showed the shortest immobilization time of any of the preparations, 41 minutes, whereas the time of the 10% mixture, 12 minutes, was shorter than that of 90% of the commercial preparations tested in 1951 and of  80% of those tested in 1953 (the present study).  Based on the 87 commercial contraceptive mate rials reviewed, the data indicate a maximum diffusion spermicidal time of 195 minutes for desirable materials.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="N">Contraception</Keyword>
+<Keyword MajorTopicYN="N">Contraceptive Agents--side effects</Keyword>
+<Keyword MajorTopicYN="N">Contraceptive Methods--side effects</Keyword>
+<Keyword MajorTopicYN="N">Family Planning</Keyword>
+<Keyword MajorTopicYN="N">Reproduction</Keyword>
+<Keyword MajorTopicYN="Y">Sperm Transport</Keyword>
+<Keyword MajorTopicYN="Y">Spermicidal Contraceptive Agents--side effects</Keyword>
+<Keyword MajorTopicYN="Y">Vaginal Cream--side effects</Keyword>
+<Keyword MajorTopicYN="Y">Vaginal Jelly--side effects</Keyword>
+<Keyword MajorTopicYN="N">Vaginal Spermicides--side effects</Keyword>
+<Keyword MajorTopicYN="Y">Vaginal Suppository--side effects</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12307916</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0578-8994</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>5B</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Bulletin of the Research Council of Israel</Title>
+<ISOAbbreviation>Bull Res Counc Isr</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The diagnosis of sex before birth using cells from the amniotic fluid (a preliminary report).</ArticleTitle>
+<Pagination>
+<MedlinePgn>137-8</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Serr</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sachs</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Danon</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Bull Res Counc Isr</MedlineTA>
+<NlmUniqueID>7509362</NlmUniqueID>
+<ISSNLinking>0578-8994</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Amniocentesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Clinical Laboratory Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Diagnosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Genetic Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Research</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550092</OtherID>
+<OtherID Source="POP">00034684</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>Preliminary results on the diagnosis of sex in utero by analysis of cells from amniotic fluid are reported. Amniotic fluid was extracted from 20 subjects and was found to contain an adequate number of cells for diagnosis. Correct diagnosis of  fetal sex was made in all cases.  The only possibility of error with this technique is in rare cases of intersex, providing that the sample is not contaminated with maternal cells. The diagnosis can be made from the 12th week of gestation until term. Diagnosis of an aborted  human fetus is also possible.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="Y">Amniocentesis</Keyword>
+<Keyword MajorTopicYN="Y">Clinical Research</Keyword>
+<Keyword MajorTopicYN="N">Examinations And Diagnoses</Keyword>
+<Keyword MajorTopicYN="N">Genetic Technics</Keyword>
+<Keyword MajorTopicYN="N">Laboratory Examinations And Diagnoses</Keyword>
+<Keyword MajorTopicYN="N">Research Methodology</Keyword>
+<Keyword MajorTopicYN="Y">Sex Determination</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12305195</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<JournalIssue CitedMedium="Print">
+<Volume>63</Volume>
+<PubDate>
+<Year>1955</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Western journal of surgery, obstetrics, and gynecology</Title>
+<ISOAbbreviation>West J Surg Obstet Gynecol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cesarean hysterectomy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>232-44</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bradbury</LastName>
+<ForeName>W C</ForeName>
+<Initials>WC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>West J Surg Obstet Gynecol</MedlineTA>
+<NlmUniqueID>0031306</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Anesthesia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cesarean Section</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Family Planning Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Fetal Death</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">General Surgery</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Gynecologic Surgical Procedures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hysterectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Obstetric Surgical Procedures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Parity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sterilization, Reproductive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Therapeutics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550002</OtherID>
+<OtherID Source="POP">00010817</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>This paper reviewed indications for cesarian section and the development and use of total or complete hysterectomy as an elective means of sterilization in an open staff general hospital.  Case reports of patients so treated during the previous 12 years and follow-up studies were included.  Of 22,832 patients delivered at the Santa Monica (California) Hospital, 1188 (5.1%) were delivered by cesarean section.  Hysterectomy was done in 84 of these: 62 of the subtotal variety and 22 total.  No maternal deaths resulted.  Spinal anesthesia was used in 1170 of the cesarean sections.  In 42.8% of the cesarean cases, a previous cesarean section had been done.  In 24.1% of the cases under study the cesarean was done for cephalopelvic disproportion in 14.8% for hemorrhages complicating pregnancy, in 6.5% for soft part dystocia, and in 3.7% for toxemia.  Of the 62 subtotal hysterectomies, 15 patients were seriously ill on admission.  Of the 22 total hysterectomy cases 17 were elective.  In the series of 84 hysterectomies there were 11 fetal deaths of which 8 were still born or nonviable.  Abruptio placenta was the most frequent cause.  There were no postoperative complications in 62 cases; all but 1 of the serious complications occurred in patients who were extremely ill on admission.  32 of the cesarean hysterectomy patients have been followed: 14 of the total cases and 18 subtotal cases.  With total hysterectomy granulation tissue formation frequently required treatment.  In the subtotal cases cervicitis required subsequent treatment in 6; vaginal removal of the cervical stump was later done in 3 of these.  In 6 operated on as an emergency measure there were serious emotional disturbances.  Postoperative follow-up of elective cases revealed excellent adjustment.  Total cesarean hysterectomy is gradually replacing subtotal.  In younger patients the operation should be limited to those with a primary indication for hysterectomy.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="N">Age Factors</Keyword>
+<Keyword MajorTopicYN="N">Anesthesia</Keyword>
+<Keyword MajorTopicYN="N">Cesarean Section</Keyword>
+<Keyword MajorTopicYN="N">Family Planning</Keyword>
+<Keyword MajorTopicYN="Y">Female Sterilization</Keyword>
+<Keyword MajorTopicYN="N">Fetal Death</Keyword>
+<Keyword MajorTopicYN="N">Gynecologic Surgery</Keyword>
+<Keyword MajorTopicYN="Y">Hysterectomy--complications</Keyword>
+<Keyword MajorTopicYN="Y">Hysterectomy--indications</Keyword>
+<Keyword MajorTopicYN="Y">Hysterectomy--therapeutic use</Keyword>
+<Keyword MajorTopicYN="N">Obstetrical Surgery</Keyword>
+<Keyword MajorTopicYN="N">Parity</Keyword>
+<Keyword MajorTopicYN="Y">Postcesarean Section</Keyword>
+<Keyword MajorTopicYN="N">Research Methodology</Keyword>
+<Keyword MajorTopicYN="Y">Retrospective Studies</Keyword>
+<Keyword MajorTopicYN="N">Sterilization, Sexual</Keyword>
+<Keyword MajorTopicYN="N">Studies</Keyword>
+<Keyword MajorTopicYN="Y">Surgery</Keyword>
+<Keyword MajorTopicYN="N">Treatment</Keyword>
+<Keyword MajorTopicYN="N">Urogenital Surgery</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12334405</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>10</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0564-1217</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2</Volume>
+<PubDate>
+<Year>1955</Year>
+</PubDate>
+</JournalIssue>
+<Title>Transplantation bulletin</Title>
+<ISOAbbreviation>Transplant Bull</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Skin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>148-9</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Eichwald</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silmser</LastName>
+<ForeName>C R</ForeName>
+<Initials>CR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transplant Bull</MedlineTA>
+<NlmUniqueID>21310020R</NlmUniqueID>
+<ISSNLinking>0564-1217</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Animals, Laboratory</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Biology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Eugenics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Genetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Research</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550095</OtherID>
+<OtherID Source="POP">00034486</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>A reevaluation of the interpretation of findings on the number and types of genes influencing the fate of skin homografts of mice is presented. Continuing observation of 149 grafts revealed 103 successful procedures. The breakdown of  successful grafts between strains is given. Except for intrastrain grafting of A/Jax mice, male-to-female grafts generally failed, whereas male-to-male, female-to-female and female-to-male grafts almost always succeeded. The disparity in  results and the genetic implications of the data remain to be elucidated.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="Y">Animals, Laboratory</Keyword>
+<Keyword MajorTopicYN="N">Biology</Keyword>
+<Keyword MajorTopicYN="N">Clinical Research</Keyword>
+<Keyword MajorTopicYN="Y">Eugenics</Keyword>
+<Keyword MajorTopicYN="N">Genetics</Keyword>
+<Keyword MajorTopicYN="N">Research Methodology</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12275461</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0002-9955</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>158</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Jun</Month>
+<Day>11</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Association</Title>
+<ISOAbbreviation>J Am Med Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Puerperal tubal sterilization: report of 1,830 cases.</ArticleTitle>
+<Pagination>
+<MedlinePgn>463-7</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Prystowsky</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eastman</LastName>
+<ForeName>N J</ForeName>
+<Initials>NJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Med Assoc</MedlineTA>
+<NlmUniqueID>7507176</NlmUniqueID>
+<ISSNLinking>0002-9955</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Aftercare</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Anesthesia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Cesarean Section</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Contraception</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Contraception Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Demography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Evaluation Studies as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Family Planning Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">General Surgery</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Obstetric Surgical Procedures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Parity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Population</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Population Dynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Postpartum Period</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Reproduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sterilization, Reproductive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sterilization, Tubal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Therapeutics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550021</OtherID>
+<OtherID Source="POP">00009326</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>A study of 1830 puerperal tubal ligations performed from 1936-1950 at the John Hopkins Hospital is reported.  Major indications for the sterilization were great multiparity, chronic hypertension, and repeated cesarean section or hysterotomy.  The Pomeroy technique was used most frequently (80.8%).  17 of the operations failed to prevent pregnancy;y Early puerperal sterilization by the Pomeroy technique resulted in 3 pregnancies and sterilization by the same method accompanied by cesarean section or hysterotomy resulted in 7 failures;y A  death rate of .3% was observed for the Pomeroy technique.  As a result, the Irving technique was substituted in cases of cesarean section or hysterotomy.  It is concluded that the hazards of the Pomeroy technique approximate those of undisturbed fertility and that sterilization on the grounds of multiparity alone cannot be justified.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="Y">Anesthesia</Keyword>
+<Keyword MajorTopicYN="N">Cesarean Section</Keyword>
+<Keyword MajorTopicYN="N">Contraception</Keyword>
+<Keyword MajorTopicYN="Y">Contraception Failure</Keyword>
+<Keyword MajorTopicYN="N">Contraceptive Usage</Keyword>
+<Keyword MajorTopicYN="N">Demographic Factors</Keyword>
+<Keyword MajorTopicYN="N">Family Planning</Keyword>
+<Keyword MajorTopicYN="Y">Female Sterilization--indications</Keyword>
+<Keyword MajorTopicYN="Y">Follow-up Studies</Keyword>
+<Keyword MajorTopicYN="N">Irving Method</Keyword>
+<Keyword MajorTopicYN="N">Madlener Method</Keyword>
+<Keyword MajorTopicYN="Y">Mortality</Keyword>
+<Keyword MajorTopicYN="N">Obstetrical Surgery</Keyword>
+<Keyword MajorTopicYN="N">Parity</Keyword>
+<Keyword MajorTopicYN="Y">Pomeroy Method--complications</Keyword>
+<Keyword MajorTopicYN="N">Population</Keyword>
+<Keyword MajorTopicYN="N">Population Dynamics</Keyword>
+<Keyword MajorTopicYN="Y">Postabortion</Keyword>
+<Keyword MajorTopicYN="Y">Postcesarean Section</Keyword>
+<Keyword MajorTopicYN="Y">Puerperium</Keyword>
+<Keyword MajorTopicYN="N">Reproduction</Keyword>
+<Keyword MajorTopicYN="N">Research Methodology</Keyword>
+<Keyword MajorTopicYN="Y">Sterilization Seekers--women</Keyword>
+<Keyword MajorTopicYN="N">Sterilization, Sexual</Keyword>
+<Keyword MajorTopicYN="N">Studies</Keyword>
+<Keyword MajorTopicYN="N">Surgery</Keyword>
+<Keyword MajorTopicYN="N">Treatment</Keyword>
+<Keyword MajorTopicYN="N">Tubal Excision</Keyword>
+<Keyword MajorTopicYN="Y">Tubal Ligation</Keyword>
+<Keyword MajorTopicYN="N">Tubal Occlusion</Keyword>
+<Keyword MajorTopicYN="N">Use-effectiveness</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="PIP" Status="MEDLINE">
+<PMID Version="1">12305406</PMID>
+<DateCreated>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCreated>
+<DateCompleted>
+<Year>1980</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<JournalIssue CitedMedium="Print">
+<Volume>63</Volume>
+<PubDate>
+<Year>1955</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Western journal of surgery, obstetrics, and gynecology</Title>
+<ISOAbbreviation>West J Surg Obstet Gynecol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cesarean section-total hysterectomy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>123-8</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Weigle</LastName>
+<ForeName>E H</ForeName>
+<Initials>EH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>West J Surg Obstet Gynecol</MedlineTA>
+<NlmUniqueID>0031306</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>J</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Family Planning Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">General Surgery</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Gynecologic Surgical Procedures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Hysterectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Parity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Sterilization, Reproductive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Therapeutics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="PIP">550006</OtherID>
+<OtherID Source="POP">00021962</OtherID>
+<OtherAbstract Type="PIP">
+<AbstractText>Experience with cesarean section-total hysterectomy at the scripps Memorial Hospital, La Jolla, California, is reported.  A review of recent literature on the subject is also presented.  20 cesearean section-total hysterectomies have been performed at the Scripps Memorial Hospital in the past 4 years.  Nearly 2/3 of the women were over the age of 30, and more than 1/3 were 36 years or older.  3/5 of the patients already had 3 or more children prior to the cesarean-hysterectomy, and all but 1 patient had 2 or more children.  There were only 2 cases in which hysterectomy was performed as an emergency because of placenta previa with continuous uncontrollable bleeding.  There were no surgical complications except for the occurrence of mild shock due to the profuse blood loss and difficulty in obtaining good hemostasis in 1 case of complete placenta previa.  15 patients exhibitied no postoperative complications.  There was 1 case of pelvic abscess, 1 case of hepatitis, 1 case of cystitis, 1 case of anemia, and 1 case of incisional and intraperitoneal hemorrhage.  18 patients were nonmorbid, and there were no maternal deaths.  There were 21 live babies (including 1 set of twins).  It is concluded that the cesarean section-total hysterectomy is an operation which when performed by the well-trained obstetrician-gynecologist under the proper conditions has no greater operative mortality or morbidity than is encountered with cesarean section-tubal ligation or cesarean section-subtotal hysterectomy.  It prevents the possibility of future development of pathology in a uterus which, if left in place after tubal ligation, would serve no purpose other than menstruation, and is preferable to cesarean section-subtotal hysterectomy because it prevents the future occurrence of pathological changes in a completely useless cervical stump.  The cesarean section-total hysterectomy is the only sterilization operation (other than castration) that is unequivocally guaranteed to prevent a future pregnancy.</AbstractText>
+</OtherAbstract>
+<KeywordList Owner="PIP">
+<Keyword MajorTopicYN="N">Age Factors</Keyword>
+<Keyword MajorTopicYN="N">Family Planning</Keyword>
+<Keyword MajorTopicYN="Y">Female Sterilization--complications</Keyword>
+<Keyword MajorTopicYN="Y">Female Sterilization--indications</Keyword>
+<Keyword MajorTopicYN="N">Gynecologic Surgery</Keyword>
+<Keyword MajorTopicYN="Y">Hysterectomy</Keyword>
+<Keyword MajorTopicYN="Y">Literature Review</Keyword>
+<Keyword MajorTopicYN="N">Parity</Keyword>
+<Keyword MajorTopicYN="N">Sterilization, Sexual</Keyword>
+<Keyword MajorTopicYN="N">Surgery</Keyword>
+<Keyword MajorTopicYN="N">Treatment</Keyword>
+<Keyword MajorTopicYN="N">Urogenital Surgery</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">13209178</PMID>
+<DateCreated>
+<Year>1955</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0007-1447</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>1</Volume>
+<Issue>4904</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+<Title>British medical journal</Title>
+<ISOAbbreviation>Br Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adrenalectomy for breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-4</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>CADE</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Not Available</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+<ISSNLinking>0007-1447</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>OM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="Cites">
+<RefSource>Cancer. 1952 Sep;5(5):1009-18</RefSource>
+<PMID Version="1">12988189</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Am Med Assoc. 1953 Apr 18;151(16):1388-94</RefSource>
+<PMID Version="1">13034482</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Cancer. 1953 Sep;6(5):997-1009</RefSource>
+<PMID Version="1">13094648</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Lancet. 1954 May 22;266(6821):1041-7</RefSource>
+<PMID Version="1">13164321</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Am Med Assoc. 1951 Sep 8;147(2):101-6</RefSource>
+<PMID Version="1">14861028</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Adrenal Glands</DescriptorName>
+<QualifierName MajorTopicYN="Y">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="CLML">5527:20954:15:86</OtherID>
+<OtherID Source="NLM">PMC2060742</OtherID>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">ADRENAL GLANDS/surgery</Keyword>
+<Keyword MajorTopicYN="Y">BREAST/neoplasms</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">13209179</PMID>
+<DateCreated>
+<Year>1955</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0007-1447</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>1</Volume>
+<Issue>4904</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+<Title>British medical journal</Title>
+<ISOAbbreviation>Br Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Problems involved in prevention of bacterial complications of measles with special reference to prophylactic sulphadiazine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5-10</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>WATSON</LastName>
+<ForeName>G I</ForeName>
+<Initials>GI</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Not Available</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+<ISSNLinking>0007-1447</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>68-35-9</RegistryNumber>
+<NameOfSubstance>Sulfadiazine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>OM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="Cites">
+<RefSource>Br Med J. 1947 Feb 8;1(4492):209-15</RefSource>
+<PMID Version="1">20244697</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Br Med J. 1953 Apr 11;1(4814):817-9</RefSource>
+<PMID Version="1">13032512</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Br Med J. 1953 Jan 10;1(4801):68-71</RefSource>
+<PMID Version="1">12997846</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Egypt Med Assoc. 1951;34(4):340-6</RefSource>
+<PMID Version="1">14851344</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Measles</DescriptorName>
+<QualifierName MajorTopicYN="Y">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N">Sulfadiazine</DescriptorName>
+<QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="CLML">5527:20955:281:441</OtherID>
+<OtherID Source="NLM">PMC2060733</OtherID>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">MEASLES/complications</Keyword>
+<Keyword MajorTopicYN="Y">SULFADIAZINE/therapeutic use</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="OLDMEDLINE">
+<PMID Version="1">13209180</PMID>
+<DateCreated>
+<Year>1955</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0007-1447</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>1</Volume>
+<Issue>4904</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+<Title>British medical journal</Title>
+<ISOAbbreviation>Br Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The early diagnosis of spinal tumours.</ArticleTitle>
+<Pagination>
+<MedlinePgn>10-6</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>BLOOM</LastName>
+<ForeName>H J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>ELLIS</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>JENNETT</LastName>
+<ForeName>W B</ForeName>
+<Initials>WB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Not Available</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+<ISSNLinking>0007-1447</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>OM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Bone Joint Surg Am. 1950 Apr;32A(2):249-56</RefSource>
+<PMID Version="1">15412165</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Ann Surg. 1925 Jan;81(1):223-54</RefSource>
+<PMID Version="1">17865169</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<OtherID Source="CLML">5527:20956:430</OtherID>
+<OtherID Source="NLM">PMC2060711</OtherID>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">SPINE/neoplasms</Keyword>
+</KeywordList>
+</MedlineCitation>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">13209181</PMID>
+<DateCreated>
+<Year>1955</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCreated>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0007-1447</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>1</Volume>
+<Issue>4904</Issue>
+<PubDate>
+<Year>1955</Year>
+<Month>Jan</Month>
+<Day>1</Day>
+</PubDate>
+</JournalIssue>
+<Title>British medical journal</Title>
+<ISOAbbreviation>Br Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Coarctation of the aorta and pregnancy; report of five cases.</ArticleTitle>
+<Pagination>
+<MedlinePgn>16-8</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>ROSENTHAL</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType>Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Not Available</Country>
+<MedlineTA>Br Med J</MedlineTA>
+<NlmUniqueID>0372673</NlmUniqueID>
+<ISSNLinking>0007-1447</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>OM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="Cites">
+<RefSource>Am J Obstet Gynecol. 1953 Jan;65(1):199-200</RefSource>
+<PMID Version="1">13016692</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Am Heart J. 1953 Mar;45(3):470-5</RefSource>
+<PMID Version="1">13030400</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Nord Med. 1950 Jun 9;43(23):953-5</RefSource>
+<PMID Version="1">14797027</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Sem Hop. 1951 Feb 22;27(14):593-9</RefSource>
+<PMID Version="1">14817386</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Obstet Gynaecol Br Emp. 1951 Apr;58(2):291-2</RefSource>
+<PMID Version="1">14832670</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Am Heart J. 1951 Sep;42(3):424-35</RefSource>
+<PMID Version="1">14877736</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Am Heart J. 1951 Sep;42(3):436-44</RefSource>
+<PMID Version="1">14877737</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>Lyon Med. 1952 Feb 17;186(7):102-4</RefSource>
+<PMID Version="1">14918594</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="Cites">
+<RefSource>J Am Med Assoc. 1952 Jun 21;149(8):740-4</RefSource>
+<PMID Version="1">14927435</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Aortic Coarctation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y">Pregnancy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="CLML">5527:20957:115:373</OtherID>
+<OtherID Source="NLM">PMC2060735</OtherID>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">COARCTATION OF AORTA/in pregnancy</Keyword>
+<Keyword MajorTopicYN="Y">PREGNANCY</Keyword>
+</KeywordList>
+</MedlineCitation>
+</MedlineCitationSet>
