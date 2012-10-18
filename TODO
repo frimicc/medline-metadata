@@ -1,0 +1,3 @@
+- Add JournalInfo to Citation.pm as a sub-object.
+- Add rest of fields to Citation.pm.
+- Add method to return the list of files created by split_and_create_citation_files() in Metadata.pm.

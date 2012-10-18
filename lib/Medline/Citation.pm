@@ -34,6 +34,16 @@ has 'revised' => (
     isa     => 'DateTime',
 );
 
+has 'title' => (
+    is  => 'rw',
+    isa => 'Str',
+);
+ 
+has 'abstract' => (
+    is  => 'rw',
+    isa => 'Str',
+);
+ 
 sub BUILD {
     my $self = shift;
  
@@ -45,6 +55,13 @@ sub BUILD {
     $self->created($self->make_date('DateCreated', $xml));
     $self->completed($self->make_date('DateCompleted', $xml));
     $self->revised($self->make_date('DateRevised', $xml));
+    
+    $self->title($xml->{Article}{ArticleTitle});
+    
+    my $abstract = $xml->{Abstract}{AbstractText};
+    $abstract = $xml->{OtherAbstract}{AbstractText} 
+            unless defined $abstract;
+    $self->abstract($abstract);
     
 }
  
