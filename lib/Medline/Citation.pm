@@ -40,10 +40,24 @@ sub BUILD {
     die unless -e $self->filepath();
 
     my $xml = XMLin($self->filepath());
-    $self->pmid($xml->PMID());
+    $self->pmid($xml->{PMID}{content});
 
+    $self->created($self->make_date('DateCreated', $xml));
+    $self->completed($self->make_date('DateCompleted', $xml));
+    $self->revised($self->make_date('DateRevised', $xml));
+    
 }
  
+sub make_date {
+    my ($self, $type, $xml) = @_;
+    my $dt = DateTime->new(
+        year       => $xml->{$type}{Year},
+        month      => $xml->{$type}{Month},
+        day        => $xml->{$type}{Day},
+    );
+    return $dt;
+}
+
 no Moose;
 __PACKAGE__->meta->make_immutable;
 
