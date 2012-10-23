@@ -5,7 +5,7 @@ package Medline::Journal;
 
 # ABSTRACT: Encapsulates a Medline Journal XML file
 
-use XML::Simple;
+use XML::XPath;
 use Moose;
 
 has 'filepath' => (
@@ -33,10 +33,13 @@ sub BUILD {
 
     # read from file if there is one
     if ( defined $self->filepath() && -e $self->filepath() ) {
-        my $xml = XMLin( $self->filepath() );
-        $self->issn( $xml->{ISSN}{content} );
-        $self->title( $xml->{Title} );
-        $self->abbreviation( $xml->{ISOAbbreviation} );
+        my $xp = XML::XPath->new( filename => $self->filepath() );
+
+        $self->issn(
+            $xp->findvalue('/Journal/ISSN[@IssnType="Print"]')->value() );
+        $self->title( $xp->findvalue('/Journal/Title')->value() );
+        $self->abbreviation(
+            $xp->findvalue('/Journal/ISOAbbreviation')->value() );
     }
 }
 
