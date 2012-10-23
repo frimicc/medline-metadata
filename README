@@ -1,0 +1,17 @@
+This project is for a demo of "XML and Perl" for SVPerl, the Silicon Valley
+Perl user group, in Sunnyvale, CA, USA.
+
+It showcases three of the major XML handling options:
+* XML::Simple
+* XML::XPath
+* XML::LibXML
+
+It uses these modules to parse sample Medline data from PubMed into objects.
+
+I chose to use the "2012 Production Year Data" in the 2012 NLMMedlineCitationSet DTD
+from http://www.nlm.nih.gov/bsd/sample_records_avail.html . This data is
+freely available and representative of large-scale data in XML form. The
+sample data in this project is taken from that dataset and is, I believe,
+copyrighted by the US National Library of Medicine.
+
+This package is Copyright 2012 by Michael Friedman, known online as "frimicc".
