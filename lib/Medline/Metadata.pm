@@ -34,6 +34,7 @@ sub split_and_create_citation_files {
     my $doc       = XML::LibXML->load_xml( location => $self->filepath() );
     my $root      = $doc->documentElement();
     my @citations = $root->getChildrenByTagName('MedlineCitation');
+    my $count = 0;
     foreach my $citation (@citations) {
         my $pmid = $citation->findvalue('PMID');
 
@@ -44,8 +45,10 @@ sub split_and_create_citation_files {
         open my $fh, '>:encoding(UTF-8)', $path or die "Can't write to $path";
         print $fh $citation->toString();
         close $fh;
+        
+        $count++;
     }
-    return;
+    return $count;
 }
 
 sub medline_path {
