@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-use Test::More tests => 10;
+use Test::More tests => 12;
 use Test::Exception;
 
 use_ok('Medline::Citation');
@@ -23,3 +23,6 @@ my $title = "Association of maternal and fetal factors with development of menta
 is($citation->title(), $title, 'loaded title');
 
 like($citation->abstract(), qr/Pregnancy, delivery, and neonatal records of mentally defective/, 'loaded abstract');
+
+isa_ok($citation->journal(), 'Medline::Journal');
+is($citation->journal()->issn(), '0002-9955', 'Journal got data');
