@@ -46,8 +46,8 @@ has 'abstract' => (
     isa => 'Str',
 );
 
-has 'journal' => ( 
-    is => 'rw',
+has 'journal' => (
+    is  => 'rw',
     isa => 'Medline::Journal',
 );
 
@@ -56,7 +56,7 @@ sub BUILD {
 
     die unless -e $self->filepath();
 
-    my $xml = XMLin( $self->filepath() );
+    my $xml = XMLin( $self->filepath(), ForceArray => ['Author'], );
     $self->pmid( $xml->{PMID}{content} );
 
     $self->created( $self->make_date( 'DateCreated', $xml ) );
@@ -71,12 +71,11 @@ sub BUILD {
     $self->abstract($abstract);
 
     my $journal = Medline::Journal->new(
-        issn => $xml->{Article}{Journal}{ISSN}{content}, 
-        title => $xml->{Article}{Journal}{Title}, 
-        abbreviation => $xml->{Article}{Journal}{ISOAbbreviation}, 
+        issn         => $xml->{Article}{Journal}{ISSN}{content},
+        title        => $xml->{Article}{Journal}{Title},
+        abbreviation => $xml->{Article}{Journal}{ISOAbbreviation},
     );
-    $self->journal($journal); 
-
+    $self->journal($journal);
 }
 
 sub make_date {
