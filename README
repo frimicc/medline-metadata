@@ -1,10 +1,12 @@
 This project is for a demo of "XML and Perl" for SVPerl, the Silicon Valley
 Perl user group, in Sunnyvale, CA, USA.
 
-It showcases three of the major XML handling options:
+It showcases five of the major XML handling options:
 * XML::Simple
 * XML::XPath
 * XML::LibXML
+* XML::SAX
+* XML::Rabbit
 
 It uses these modules to parse sample Medline data from PubMed into objects.
 

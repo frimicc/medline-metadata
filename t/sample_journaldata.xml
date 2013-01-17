@@ -2,7 +2,7 @@
 <!DOCTYPE MedlineCitationSet PUBLIC "-//NLM//DTD Medline Citation, 1st January, 2012//EN"
                                     "http://www.nlm.nih.gov/databases/dtd/nlmmedlinecitationset_120101.dtd">
 <Journal>
-<ISSN IssnType="Print">0002-9955</ISSN>
-<Title>Journal of the American Medical Association</Title>
-<ISOAbbreviation>J Am Med Assoc</ISOAbbreviation>
+    <ISSN IssnType="Print">0002-9955</ISSN>
+    <Title>Journal of the American Medical Association</Title>
+    <ISOAbbreviation>J Am Med Assoc</ISOAbbreviation>
 </Journal>
